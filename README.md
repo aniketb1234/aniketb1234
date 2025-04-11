@@ -1,6 +1,6 @@
 # Hello, I'm Aniket Bhujbal! 👋
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/aniket-bhujbal-179375227/) [![Portfolio](https://img.shields.io/badge/Portfolio-Explore-brightgreen)](link)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/aniket-bhujbal-179375227/) [![Portfolio]([[https://img.shields.io/badge/Portfolio-Explore-brightgreen]](https://aniketbhujbal.netlify.app/)(https://aniketbhujbal.netlify.app/))](link)
 
 ## 👨‍💻 About Me
 Enthusiastic and detail-oriented Full Stack Developer with hands-on experience in building dynamic web applications using React, Java (Spring Boot), and Node.js. Strong focus on creating responsive UI and integrating backend systems efficiently. Currently working at Flairminds Software Pvt. Ltd.
