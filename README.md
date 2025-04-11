@@ -3,7 +3,7 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/aniket-bhujbal-179375227/) [![Portfolio](https://img.shields.io/badge/Portfolio-Explore-brightgreen)](link)
 
 ## 👨‍💻 About Me
-I am a passionate Full Stack Developer from India, dedicated to crafting seamless web applications with expertise in both frontend and backend development.
+Enthusiastic and detail-oriented Full Stack Developer with hands-on experience in building dynamic web applications using React, Java (Spring Boot), and Node.js. Strong focus on creating responsive UI and integrating backend systems efficiently. Currently working at Flairminds Software Pvt. Ltd.
 
 ## 🚀 What I'm Doing
 - Constantly improving my skills as a Full Stack Developer.
